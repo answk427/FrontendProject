@@ -1,0 +1,19 @@
+p{
+    color: blue;
+}
+
+li{
+    color: yellow;
+}
+
+li > p{
+    color : green;
+}
+
+tr > p{
+    color: black;
+}
+
+h1#violet {
+    color : violet;
+}
